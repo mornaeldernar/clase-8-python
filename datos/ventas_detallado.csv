@@ -1,0 +1,26 @@
+venta_id,fecha,cliente,vendedor,producto,categoria,cantidad,precio_unitario,descuento_pct,region,canal,metodo_pago,moneda
+V001,2024-01-15,Empresa Alpha,Ana García,Consultoría Premium,Servicios,1,75000,0,Norte,Directo,Transferencia,EUR
+V002,2024-01-20,Tech Solutions,Carlos López,Software Enterprise,Productos,2,45000,5,Sur,Online,Tarjeta,EUR
+V003,2024-02-10,Global Corp,María Rodríguez,Auditoría Completa,Servicios,1,60000,10,Centro,Partner,Transferencia,EUR
+V004,2024-02-15,StartUp Innovate,Juan Pérez,Consultoría Digital,Servicios,1,35000,,Este,Directo,Financiación,EUR
+V005,2024-03-05,Retail Giants,Laura Martín,Transformación 360,Servicios,1,90000,15,Oeste,Directo,Transferencia,EUR
+V006,2024-03-10,Finance Pro,Pedro Sánchez,Compliance Suite,Productos,1,40000,8,Norte,Online,Tarjeta,EUR
+V007,2024-03-20,Health Systems,Sofia Hernández,Optimización Pro,Servicios,1,55000,5,Sur,Partner,Transferencia,EUR
+V008,2024-04-01,Manufacturing Co,Diego Torres,Procesos Lean,Servicios,1,50000,12,Centro,Directo,Cheque,EUR
+V009,2024-04-15,Education First,Ana García,Modernización Ed,Servicios,1,42000,,Este,Online,Transferencia,EUR
+V010,2024-04-20,Energy Corp,Carlos López,Sostenibilidad Plus,Servicios,1,85000,7,Oeste,Directo,Transferencia,EUR
+V011,2024-05-01,Transport Hub,María Rodríguez,Logística Smart,Productos,3,25000,3,Norte,Partner,Tarjeta,EUR
+V012,2024-05-15,Media Group,Juan Pérez,Marketing 4.0,Servicios,1,38000,,Sur,Online,PayPal,EUR
+V013,2024-05-20,Hotel Chain,Laura Martín,CX Excellence,Servicios,1,52000,6,Centro,Directo,Transferencia,EUR
+V014,2024-06-01,Insurance Plus,Pedro Sánchez,Risk Analytics,Productos,1,48000,,Este,Online,Tarjeta,EUR
+V015,2024-06-10,Pharma Research,Sofia Hernández,Regulatory Pro,Servicios,1,78000,4,Oeste,Directo,Transferencia,EUR
+V016,2024-06-15,Food Industry,Diego Torres,Quality Max,Servicios,1,41000,,Norte,Partner,Transferencia,EUR
+V017,2024-07-01,Real Estate,Ana García,Valuación Expert,Servicios,1,47000,8,Sur,Directo,Tarjeta,EUR
+V018,2024-07-15,Telecom Leader,Carlos López,Infra Premium,Productos,2,65000,2,Centro,Online,Transferencia,EUR
+V019,2024-07-20,Construction Major,María Rodríguez,Planning Pro,Servicios,1,58000,5,Este,Partner,Transferencia,EUR
+V020,2024-08-01,Automotive Pro,Juan Pérez,Innovation Lab,Servicios,1,63000,7,Oeste,Directo,Financiación,EUR
+V021,2024-08-15,New Client A,Laura Martín,Consultoría Básica,Servicios,1,28000,,Norte,Online,Tarjeta,EUR
+V022,2024-08-20,New Client B,Pedro Sánchez,Software Starter,Productos,1,32000,15,Sur,Online,PayPal,EUR
+V023,2024-09-01,Retail Giants,Sofia Hernández,Formación Avanzada,Servicios,5,8000,0,Oeste,Directo,Transferencia,EUR
+V024,2024-09-10,Tech Solutions,Diego Torres,Soporte Premium,Servicios,1,25000,10,Sur,Partner,Tarjeta,EUR
+V025,2024-09-15,Global Corp,Ana García,Auditoría Follow-up,Servicios,1,35000,5,Centro,Directo,Transferencia,EUR

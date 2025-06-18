@@ -1,0 +1,80 @@
+site_name: "Sesión 08: Fundamentos de Pandas II"
+site_description: "Laboratorio de Pandas para Meridian Consulting - Transformación y Análisis de Datos"
+site_author: "Meridian Consulting"
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+  language: es
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Cambiar a modo oscuro
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Cambiar a modo claro
+
+nav:
+  - Inicio: index.md
+  - Conceptos Avanzados:
+    - Filtrado Avanzado: conceptos/filtrado-avanzado.md
+    - Selección con loc e iloc: conceptos/seleccion-avanzada.md
+  - Transformación de Datos:
+    - Creación de Columnas: transformacion/creacion-columnas.md
+    - Modificación de Datos: transformacion/modificacion-datos.md
+    - Función apply(): transformacion/funcion-apply.md
+  - Limpieza de Datos:
+    - Detección de Valores Faltantes: limpieza/deteccion-valores-faltantes.md
+    - Estrategias de Manejo: limpieza/estrategias-manejo.md
+    - Técnicas de Imputación: limpieza/tecnicas-imputacion.md
+  - Ejercicios Prácticos:
+    - Ejercicio 1 - Proyectos Avanzados: ejercicios/ejercicio-1-proyectos.md
+    - Ejercicio 2 - Ventas Transformadas: ejercicios/ejercicio-2-ventas.md
+    - Ejercicio 3 - Empleados Limpieza: ejercicios/ejercicio-3-empleados.md
+    - Ejercicio 4 - Encuestas Completas: ejercicios/ejercicio-4-encuestas.md
+    - Ejercicio 5 - Gastos Integrados: ejercicios/ejercicio-5-gastos.md
+  - Casos Integrados:
+    - Caso 1 - Pipeline Completo: ejercicios/caso-1-pipeline.md
+    - Caso 2 - Análisis de Consultoría: ejercicios/caso-2-consultoria.md
+  - Soluciones: soluciones/index.md
+  - Recursos: recursos.md
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.mark
+  - pymdownx.tabbed:
+      alternate_style: true
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/meridian-consulting
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/company/meridian-consulting
+
+copyright: |
+  &copy; 2025 <a href="https://meridian-consulting.com"  target="_blank" rel="noopener">Meridian Consulting</a>

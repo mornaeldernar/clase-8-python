@@ -1,0 +1,21 @@
+proyecto_id,cliente,tipo_proyecto,region,presupuesto,gastado,horas_planificadas,horas_reales,fecha_inicio,fecha_fin_planificada,fecha_fin_real,satisfaccion,estado,equipo_size,manager
+P001,Empresa Alpha,Consultoría Estratégica,Norte,150000,145000,800,820,2024-01-15,2024-04-15,2024-04-18,8.5,Completado,6,Ana García
+P002,Tech Solutions,Implementación Software,Sur,200000,,1200,1350,2024-02-01,2024-06-01,,7.2,En Progreso,8,Carlos López
+P003,Global Corp,Auditoría,Centro,80000,82000,400,380,2024-01-20,2024-03-20,2024-03-15,9.1,Completado,4,María Rodríguez
+P004,StartUp Innovate,Consultoría Digital,Este,120000,130000,600,750,2024-03-01,2024-05-30,2024-06-15,6.8,Completado,5,Juan Pérez
+P005,Retail Giants,Transformación,Oeste,300000,280000,1500,1480,2024-01-10,2024-07-10,,8.9,En Progreso,10,Laura Martín
+P006,Finance Pro,Compliance,Norte,90000,95000,450,470,2024-02-15,2024-05-15,2024-05-20,7.8,Completado,3,Pedro Sánchez
+P007,Health Systems,Optimización,Sur,180000,175000,900,850,2024-03-15,2024-08-15,,8.3,En Progreso,7,Sofia Hernández
+P008,Manufacturing Co,Procesos,Centro,160000,170000,800,900,2024-01-25,2024-06-25,2024-07-10,7.5,Completado,6,Diego Torres
+P009,Education First,Modernización,Este,95000,,500,520,2024-04-01,2024-07-01,,8.7,En Progreso,4,Ana García
+P010,Energy Corp,Sostenibilidad,Oeste,250000,240000,1200,1150,2024-02-20,2024-09-20,,9.2,En Progreso,9,Carlos López
+P011,Transport Hub,Logística,Norte,110000,115000,550,580,2024-03-10,2024-06-10,2024-06-20,8.1,Completado,5,María Rodríguez
+P012,Media Group,Marketing Digital,Sur,75000,73000,350,340,2024-04-15,2024-07-15,,7.9,En Progreso,3,Juan Pérez
+P013,Hotel Chain,Customer Experience,Centro,140000,138000,700,690,2024-02-05,2024-06-05,2024-06-02,8.6,Completado,6,Laura Martín
+P014,Insurance Plus,Riesgo,Este,105000,,525,600,2024-05-01,2024-08-01,,7.4,En Progreso,4,Pedro Sánchez
+P015,Pharma Research,Regulatorio,Oeste,220000,210000,1100,1080,2024-01-30,2024-08-30,,8.8,En Progreso,8,Sofia Hernández
+P016,Food Industry,Calidad,Norte,85000,87000,425,450,2024-04-20,2024-07-20,,7.6,En Progreso,4,Diego Torres
+P017,Real Estate,Valuación,Sur,130000,125000,650,620,2024-03-25,2024-07-25,,8.4,En Progreso,5,Ana García
+P018,Telecom Leader,Infraestructura,Centro,280000,290000,1400,1500,2024-02-10,2024-10-10,,7.1,En Progreso,11,Carlos López
+P019,Construction Major,Planificación,Este,190000,185000,950,920,2024-01-05,2024-07-05,2024-07-02,8.7,Completado,7,María Rodríguez
+P020,Automotive Pro,Innovación,Oeste,170000,175000,850,880,2024-03-20,2024-09-20,,8.2,En Progreso,6,Juan Pérez
