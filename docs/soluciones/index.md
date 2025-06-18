@@ -13,22 +13,22 @@ Esta sección contiene las soluciones completas de todos los ejercicios práctic
 ## 📋 Índice de Soluciones
 
 ### Ejercicios Prácticos
-1. **[Ejercicio 1 - Proyectos Avanzados](ejercicio-1-solucion.md)**
+1. **[Ejercicio 1 - Proyectos Avanzados](ejercicio-1-solucion.ipynb)**
    - Filtrado avanzado y selección
    - Transformación de datos de proyectos
    - Manejo de valores faltantes en contexto real
 
-2. **[Ejercicio 2 - Ventas Transformadas](ejercicio-2-solucion.md)**
+2. **[Ejercicio 2 - Ventas Transformadas](ejercicio-2-solucion.ipynb)**
    - Creación de métricas de ventas
    - Análisis de tendencias temporales
    - Segmentación de clientes
 
-3. **[Ejercicio 3 - Empleados Limpieza](ejercicio-3-solucion.md)**
+3. **[Ejercicio 3 - Empleados Limpieza](ejercicio-3-solucion.ipynb)**
    - Estandarización de datos de RRHH
    - Imputación inteligente de salarios
    - Análisis de estructura organizacional
 
-4. **[Ejercicio 4 - Encuestas Completas](ejercicio-4-solucion.md)**
+4. **[Ejercicio 4 - Encuestas Completas](ejercicio-4-solucion.ipynb)**
    - Procesamiento de datos de encuestas
    - Manejo de respuestas faltantes
    - Cálculo de índices de satisfacción
